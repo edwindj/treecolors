@@ -1,0 +1,10 @@
+Package: treecolors
+Title: Hierarchical Color Palettes
+Version: 0.0.0.9000
+Authors@R: c(person("Edwin", "de Jonge", email = "edwindjonge@gmail.com", role = c("aut", "cre"))
+   ,person("Martijn", "Tennekes", email = "mtenneks@gmail.com", role = c("aut")))
+Description: Generate a color palette based on a hierarchical structure.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
